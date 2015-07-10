@@ -1,0 +1,39 @@
+html, body {
+  font-family: 'Helvetica Neue';
+  color:#665E60;
+  text-align:center;
+}
+header, section { padding:30px;}
+
+h1, h2, h3 {
+  font-weight:300;
+  color: #25171A;
+  margin-bottom:20px;
+  letter-spacing: 0.4px;
+}
+p{
+  font-weight:300;
+  color: #25171A;
+  margin-bottom:20px;
+  font-size:18px;
+  letter-spacing: 0.4px;
+}
+.container{
+  max-width:970px;
+}
+a{color:#665E60;text-decoration:underline;}
+header#intro {padding-bottom:60px;}
+header#intro img {display:inline-block;border-radius:50%;height:100px;width:auto;border:1px solid #efefef;margin:50px 0 20px;}
+header#intro h1 { font-size:30px }
+header#intro p { font-size:22px; line-height:35px; }
+.buttons {margin-bottom:20px;}
+.buttons a {border:1px solid #bbb; display:inline-block; line-height:20px;padding:15px 25px;margin:10px 10px;border-radius:26px; text-decoration:none !important;outline:none;-webkit-transition: all 2s; transition: all 0.5s;}
+.buttons a:hover {border-color:#777;}
+
+section#projects{ background-color:#F7F7F7; }
+section#projects .row { text-align:left;}
+section#projects .col {margin-bottom:40px;}
+section#projects .row h3 { font-size:24px; border-bottom:1px solid #999;padding-bottom:6px;}
+section#projects .row p { margin:0 5px 20px; font-size: 1.1em; line-height:1.4em;}
+section#projects .row .buttons a {line-height:20px;padding:5px 10px;margin:0 2px;border-radius:15px;}
+/*section#projects .row p.small {font-size:0.9em;}*/
