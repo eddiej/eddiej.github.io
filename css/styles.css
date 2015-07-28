@@ -35,6 +35,7 @@ section#projects{ background-color:#F7F7F7; }
 section#projects .row { text-align:left;}
 section#projects .col {margin-bottom:40px;}
 section#projects .row h3 { font-size:24px; border-bottom:1px solid #999;padding-bottom:6px;}
-section#projects .row p { margin:0 5px 20px; font-size: 1.1em; line-height:1.4em;}
+section#projects .row p { margin:0 0px 20px; font-size: 1.1em; line-height:1.4em;}
 section#projects .row .buttons a {line-height:20px;padding:5px 10px;margin:0 2px;border-radius:15px;}
+section#projects img {display:inline-block;max-width:100%;width:auto;padding:4px;border:1px solid #bbb;background:white;margin-bottom:10px;}
 /*section#projects .row p.small {font-size:0.9em;}*/
