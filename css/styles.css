@@ -23,7 +23,8 @@ p{
 }
 a{color:#665E60;text-decoration:underline;}
 header#intro {padding-bottom:60px;}
-header#intro img {display:inline-block;border-radius:50%;height:100px;width:auto;border:1px solid #efefef;margin:50px 0 20px;}
+/*header#intro img {display:inline-block;border-radius:50%;height:100px;width:auto;border:1px solid #efefef;margin:50px 0 20px;}*/
+header#intro img {display:inline-block;height:180px;width:auto;margin:50px 0 10px;}
 header#intro h1 { font-size:30px }
 header#intro p { font-size:22px; line-height:35px; }
 .buttons {margin-bottom:20px;}
